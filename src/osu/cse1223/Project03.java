@@ -154,6 +154,7 @@ public class Project03 {
 		}
 	}
 	
+	//Compares the answers and decides if the answer is correct and if so add a point.
 	public static void CorrectAnswers(int user, int actual)
 	{
 		
